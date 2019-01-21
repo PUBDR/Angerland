@@ -1,0 +1,14 @@
+html
+{
+    background-color: orange;
+}
+head
+{
+    color: #cea500;
+    text-align: center;
+    font-size: 25px;
+}
+.repl-it
+{
+    display: flex;
+}
