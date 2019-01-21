@@ -11,11 +11,3 @@ head
     font-size: 25px;
     text-align: center;
 }
-.repl-it
-{
-    display: flex;
-}
-.comment-section
-{
-    flex-grow: 1;
-}
