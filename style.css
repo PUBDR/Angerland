@@ -2,12 +2,18 @@ html
 {
     background-color: orange;
 }
+p
+{
+    color: #4f3900;
+    text-align: center;
+    font-size: 25px;
+}
 head
 {
 }
 .title
 {
-    color: #cea500;
+    color: #4f3900;
     font-size: 25px;
     text-align: center;
 }
