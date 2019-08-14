@@ -1,0 +1,27 @@
+
+html
+{
+	text-align: center;
+	background: #800080;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to bottom, #ffc0cb, #800080);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to bottom, #ffc0cb, #800080); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.background
+{
+	border: 1px solid white;
+}
+.intro
+{
+	text-align: justify;
+	padding-left: 25%;
+}
+.ul-background h1
+{
+	font-size: 35px;
+}
+.ul-background
+{
+	font-size: 25px;
+	text-align: justify;
+}
