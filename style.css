@@ -41,7 +41,7 @@ h1
 		'intro tracklist'
 		'guidelines radio';
  	grid-gap: 10px;
-    background-color: #636FA4;
+        background-color: rgba(255, 255, 255, 0.2);
 }
 .background > div {
   background-color: rgba(255, 255, 255, 0.4);
